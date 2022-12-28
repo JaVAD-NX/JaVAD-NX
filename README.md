@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaVAD-NX
 - 👀 I’m interested in python and django
 - 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me --> jaavad.nx@gmail.com
